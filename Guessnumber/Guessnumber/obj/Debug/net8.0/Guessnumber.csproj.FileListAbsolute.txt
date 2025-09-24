@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\bin\Debug\net8.0\Guessnumber.exe
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\bin\Debug\net8.0\Guessnumber.deps.json
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\bin\Debug\net8.0\Guessnumber.runtimeconfig.json
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\bin\Debug\net8.0\Guessnumber.dll
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\bin\Debug\net8.0\Guessnumber.pdb
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\Guessnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\Guessnumber.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\Guessnumber.AssemblyInfo.cs
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\Guessnumber.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\Guessnumber.dll
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\refint\Guessnumber.dll
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\Guessnumber.pdb
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\Guessnumber.genruntimeconfig.cache
+C:\Users\USER\Desktop\mycoding\Guessnumber\Guessnumber\obj\Debug\net8.0\ref\Guessnumber.dll
